@@ -4,4 +4,4 @@
 
 Hello, my name is Emircan. I'm student at İnönü University taking computer engineering.
 
-I'm learning C++. I'm interested in openGL library.
+I'm learning C++, Java and Python. I'm interested in openGL library.
