@@ -1,7 +1,7 @@
-### Hello there👋, Welcome to the my profile page
+### Hello there👋, Welcome to the my profile
 
 
 
-Hello, my name is Emircan. I'm student at İnönü University taking computer engineering.
-
-I'm learning C++, Java and Python. I'm interested in Vulkan API.
+Hello, my name is Emircan. I'm university student and taking computer engineering.
+I'm working on several programming languages.
+My goal is become a skilled developer.
