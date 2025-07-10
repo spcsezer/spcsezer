@@ -2,6 +2,6 @@
 
 
 
-Hello, my name is Emircan. I'm university student and taking computer engineering.
-I'm working on several programming languages.
-My goal is become a skilled developer.
+Hi, I'm Emircan and I'm Computer Engineering student.
+I'm posting what I'm working on here.
+You can look it up.
